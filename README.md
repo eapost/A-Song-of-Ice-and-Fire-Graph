@@ -1,5 +1,4 @@
 # NetworkAnalysisAndVisualization
-*Network Analysis and Visualization with R and igraph* assignment in *Social Network Analysis* course of MSc in Business Analytics (AUEB).
 
 # Problem: 'A Song of Ice and Fire' network
 
