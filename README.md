@@ -1,4 +1,4 @@
-# NetworkAnalysisAndVisualization
+# A-Song-of-Ice-and-Fire-Graph
 
 # Problem: 'A Song of Ice and Fire' network
 
